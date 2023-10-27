@@ -2,7 +2,7 @@
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: ...Tomas lopes
 
 Teste termina às 13:25.
 
@@ -19,7 +19,8 @@ Não desformates o documento.
 
 P1 - Resposta
 
-    ...
+    ...True.porque neste codigo 2 e menor que5
+
 
 ### P2. Considera o seguinte código com um *bug*
 
@@ -31,7 +32,7 @@ P1 - Resposta
 
 P2 - Resposta
 
-    ...
+    ...a correcao, e utilizar o short e nao utilizar long porque nao podemos converter menores em maiores mas da em maiores para menores
 
 ### P3. Escreve um programa que solicite ao utilizador dois números reais e apresente o resultado do primeiro (base) elevado ao segundo (expoente). Não podes usar um método da classe Math para obter o resultado
 
@@ -43,4 +44,10 @@ P3 - Resposta
 
 P4 - Resposta
 
-    ...
+    ...Salvar o ficheiro, e adicionar o mesmo para commit no terminal
+git add README.md
+Fazer commit e push
+git commit
+Escrever mensagem de commit no Notepad++, guardar o ficheiro e fechá-lo
+git push
+classe.cs,commit-m os comandos necessarios para fazer o programa
